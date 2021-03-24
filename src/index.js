@@ -9,8 +9,8 @@ const CoCreateFacebook = {
 	// action_getFacebook: function(element, data) {
 	//     console.log('action gertFacebook');
 	//     let container = document;	
-	// 	let form_data = CoCreateApi.getFormData('facebook', 'getFacebook',  container);
-	// 	CoCreateApi.send('facebook', 'getFacebook', form_data);
+	// 	let form_data = CoCreate.api.getFormData('facebook', 'getFacebook',  container);
+	// 	CoCreate.api.send('facebook', 'getFacebook', form_data);
 	// },
 	
 	render_getUserProfile: function(data) {
