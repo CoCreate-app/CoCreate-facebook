@@ -1,3 +1,4 @@
+import api from '@cocreate/api'
 
 const CoCreateFacebook = {
 	id: 'facebook',
@@ -22,7 +23,9 @@ const CoCreateFacebook = {
 	}
 };
 
-CoCreate.api.init({
+api.init({
 	name: CoCreateFacebook.id, 
 	module:	CoCreateFacebook,
 });
+
+export default CoCreateFacebook;
