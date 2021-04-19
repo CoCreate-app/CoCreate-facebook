@@ -1,3 +1,11 @@
+## [1.0.3](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.2...v1.0.3) (2021-04-19)
+
+
+### Bug Fixes
+
+* ci and build process ([d34ccfa](https://github.com/CoCreate-app/CoCreate-facebook/commit/d34ccfa213c9833962c262675d9987264a0fb8fa))
+* npm publish and cdn deployment ([ac77528](https://github.com/CoCreate-app/CoCreate-facebook/commit/ac7752850c356b9a38fcba903bed15c9d086fad4))
+
 ## [1.0.2](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.1...v1.0.2) (2021-03-31)
 
 
