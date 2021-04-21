@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.3...v1.0.4) (2021-04-21)
+
+
+### Bug Fixes
+
+* One package for server and client ([967457f](https://github.com/CoCreate-app/CoCreate-facebook/commit/967457f40720cbc8f33b627fb890419587635e86))
+
 ## [1.0.3](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.2...v1.0.3) (2021-04-19)
 
 
