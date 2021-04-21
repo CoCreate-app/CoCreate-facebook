@@ -13,15 +13,11 @@
                 'into this webpage.';
             }
           }
-        
-        
           function checkLoginState() {               // Called when a person is finished with the Login Button.
             FB.getLoginStatus(function(response) {   // See the onlogin handler
               statusChangeCallback(response);
             });
           }
-        
-        
           window.fbAsyncInit = function() {
             FB.init({
               appId      : '1804989386230604',
@@ -29,16 +25,12 @@
               xfbml      : true,                     // Parse social plugins on this webpage.
               version    : 'v8.0'           // Use this Graph API version for this call.
             });
-        
-        
             FB.getLoginStatus(function(response) {   // Called after the JS SDK has been initialized.
               statusChangeCallback(response);        // Returns the login status.
             });
           };
         
         </script>
-        
-        
         <!-- The JS SDK Login Button -->
         
         <fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
