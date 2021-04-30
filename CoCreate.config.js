@@ -10,7 +10,7 @@ module.exports = {
             "path": "./docs/index.html",
             "collection": "files",
             "document_id": "602832f971064611a678a1a1",
-            "key": "html",
+            "key": "src",
             "data":{
                 "name": "facebook Doc",
                 "domains": ["cocreate.app", "server.cocreate.app", "ws.cocreate.app"],
