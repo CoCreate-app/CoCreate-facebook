@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.7...v1.0.8) (2021-05-08)
+
+
+### Bug Fixes
+
+* add css auto parse and save to docs. ([70720cb](https://github.com/CoCreate-app/CoCreate-facebook/commit/70720cba09e95dbb666004a02792885133e447d4))
+
 ## [1.0.7](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.6...v1.0.7) (2021-04-27)
 
 
