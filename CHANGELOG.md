@@ -1,3 +1,11 @@
+## [1.0.17](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.16...v1.0.17) (2021-07-13)
+
+
+### Bug Fixes
+
+* add yarn lockfile to git ignore ([c82dc60](https://github.com/CoCreate-app/CoCreate-facebook/commit/c82dc608cabdffe0d228bba27b9fba4c59a6f476))
+* remove yarn.lock ([ee6a4b7](https://github.com/CoCreate-app/CoCreate-facebook/commit/ee6a4b7099fca073665082b07c691df551a8ddaf))
+
 ## [1.0.16](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.15...v1.0.16) (2021-07-10)
 
 
