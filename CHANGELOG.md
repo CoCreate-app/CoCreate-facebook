@@ -1,3 +1,10 @@
+## [1.0.19](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.18...v1.0.19) (2021-07-17)
+
+
+### Bug Fixes
+
+* workflows ([1937210](https://github.com/CoCreate-app/CoCreate-facebook/commit/1937210d7e6c690a77f4884637d28964990a590b))
+
 ## [1.0.18](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.17...v1.0.18) (2021-07-14)
 
 
