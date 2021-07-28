@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.19...v1.1.0) (2021-07-28)
+
+
+### Bug Fixes
+
+* remove data- from fetch, pass and filter ([b3a18f3](https://github.com/CoCreate-app/CoCreate-facebook/commit/b3a18f3003466b0ecb4676eaa9254300908bd24c))
+
+
+### Features
+
+* add new is{attribute} system and remove data- from attributtes ([1c790ab](https://github.com/CoCreate-app/CoCreate-facebook/commit/1c790ab508a4544d0adaee08bf10653559bd49bc))
+
 ## [1.0.19](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.18...v1.0.19) (2021-07-17)
 
 
