@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.0...v1.1.1) (2021-08-02)
+
+
+### Bug Fixes
+
+* remove data- from attributes ([a4a4390](https://github.com/CoCreate-app/CoCreate-facebook/commit/a4a43905c48d07d72c4664a3d4066075dab79887))
+* update data-fullscreen to fullscreen ([5b2df60](https://github.com/CoCreate-app/CoCreate-facebook/commit/5b2df606ca191c5ee440e56eadedc4ad5fd88e6e))
+
 # [1.1.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.0.19...v1.1.0) (2021-07-28)
 
 
