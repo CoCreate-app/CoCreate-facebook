@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.4...v1.1.5) (2021-08-22)
+
+
+### Bug Fixes
+
+* removed data- from main-content, clone, filter-value_type ([b9576ad](https://github.com/CoCreate-app/CoCreate-facebook/commit/b9576adf29baad1eee048005fc7cc6955f59d817))
+
 ## [1.1.4](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.3...v1.1.4) (2021-08-22)
 
 
