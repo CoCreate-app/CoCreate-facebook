@@ -1,3 +1,10 @@
+## [1.1.11](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.10...v1.1.11) (2021-09-09)
+
+
+### Bug Fixes
+
+* CoCreate.config directory, path, name and  public ([a1b1ab8](https://github.com/CoCreate-app/CoCreate-facebook/commit/a1b1ab8cc43532df48f92fe21eb386f2af4a2212))
+
 ## [1.1.10](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.9...v1.1.10) (2021-09-08)
 
 
