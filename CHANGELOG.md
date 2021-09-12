@@ -1,3 +1,10 @@
+## [1.1.15](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.14...v1.1.15) (2021-09-12)
+
+
+### Bug Fixes
+
+* update sidenav to use resize and toggle ([3e6e517](https://github.com/CoCreate-app/CoCreate-facebook/commit/3e6e517712a15da32379e8b1b8e264d9a4276581))
+
 ## [1.1.14](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.13...v1.1.14) (2021-09-09)
 
 
