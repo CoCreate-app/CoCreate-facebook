@@ -1,3 +1,10 @@
+## [1.1.17](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.16...v1.1.17) (2021-09-14)
+
+
+### Bug Fixes
+
+* add cocreate.app to domains ([c1c6634](https://github.com/CoCreate-app/CoCreate-facebook/commit/c1c6634a793f64150a66e361864c484ab8275941))
+
 ## [1.1.16](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.15...v1.1.16) (2021-09-13)
 
 
