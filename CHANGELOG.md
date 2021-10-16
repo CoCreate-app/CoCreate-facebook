@@ -1,3 +1,10 @@
+## [1.1.31](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.30...v1.1.31) (2021-10-16)
+
+
+### Bug Fixes
+
+* update socket package to fix bug in docs ([e6057e7](https://github.com/CoCreate-app/CoCreate-facebook/commit/e6057e718f8f5a5f9391a7d3374e293d6550499e))
+
 ## [1.1.30](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.29...v1.1.30) (2021-10-15)
 
 
