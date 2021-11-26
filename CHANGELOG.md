@@ -1,3 +1,10 @@
+## [1.1.47](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.46...v1.1.47) (2021-11-26)
+
+
+### Bug Fixes
+
+* docs sidenav width ([72e5e85](https://github.com/CoCreate-app/CoCreate-facebook/commit/72e5e853bf072e0d4cd54fd15846c8a324c3e33b))
+
 ## [1.1.46](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.45...v1.1.46) (2021-11-26)
 
 
