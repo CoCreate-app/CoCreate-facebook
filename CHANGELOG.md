@@ -1,3 +1,10 @@
+## [1.1.48](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.47...v1.1.48) (2021-11-27)
+
+
+### Bug Fixes
+
+* update docs api and cocreateJS script ([174ff36](https://github.com/CoCreate-app/CoCreate-facebook/commit/174ff366af1b9aeb11d7ea53345c5abdf403342f))
+
 ## [1.1.47](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.46...v1.1.47) (2021-11-26)
 
 
