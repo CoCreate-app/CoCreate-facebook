@@ -1,3 +1,10 @@
+## [1.1.54](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.53...v1.1.54) (2022-01-01)
+
+
+### Bug Fixes
+
+* get-value attribute value now supports a selector added # to all values currently in get-value attributes ([3489450](https://github.com/CoCreate-app/CoCreate-facebook/commit/348945046f8115f668dcfe2fbc10a17d00907a28))
+
 ## [1.1.53](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.52...v1.1.53) (2022-01-01)
 
 
