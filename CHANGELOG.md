@@ -1,3 +1,10 @@
+## [1.1.53](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.52...v1.1.53) (2022-01-01)
+
+
+### Bug Fixes
+
+* removed data- from attributes ([5193886](https://github.com/CoCreate-app/CoCreate-facebook/commit/5193886a9f28adf09a94d942c7f22309b56993c3))
+
 ## [1.1.52](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.51...v1.1.52) (2021-12-15)
 
 
