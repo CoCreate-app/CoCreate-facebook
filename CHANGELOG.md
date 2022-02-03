@@ -1,3 +1,10 @@
+## [1.1.56](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.55...v1.1.56) (2022-02-03)
+
+
+### Bug Fixes
+
+* replaced show and hide class hidden with attribute hidden ([07e5c03](https://github.com/CoCreate-app/CoCreate-facebook/commit/07e5c037256d937c16173b71a1ba50a9560034f5))
+
 ## [1.1.55](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.54...v1.1.55) (2022-02-01)
 
 
