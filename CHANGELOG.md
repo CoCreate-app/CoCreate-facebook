@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.58...v1.2.0) (2022-02-16)
+
+
+### Features
+
+* define request and response functions, if functions are not deifne defualt functions exist that will request and render results. Reduced and improved code quality ([dbad644](https://github.com/CoCreate-app/CoCreate-facebook/commit/dbad644542ddfc10da107937e7a28dc307044b4f))
+
 ## [1.1.58](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.1.57...v1.1.58) (2022-02-10)
 
 
