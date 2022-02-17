@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.2.1...v1.3.0) (2022-02-17)
+
+
+### Features
+
+* get environment and keys from db ([e3df688](https://github.com/CoCreate-app/CoCreate-facebook/commit/e3df6888e56e3976ae71e960790afcf4d94f0ec7))
+
 ## [1.2.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.2.0...v1.2.1) (2022-02-16)
 
 
