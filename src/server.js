@@ -21,121 +21,56 @@ class CoCreateDataFacebook {
 	}
 
 	async sendFacebook(socket, data) {	    
-	    let type = data['type'];
-	    const params = data['data'];
-	    
+		let params = data['data'];
+        let type = data['type'];
+		let environment;
 
+        let org = await api.getOrg(data, this.moduleName);
+        if (params.environment){
+          environment = params['environment'];
+          delete params['environment'];  
+        } else {
+          environment = org['apis.' + this.moduleName + '.environment'];
+        }
+
+        const { accessToken } = org['apis.'+this.moduleName+'.'+environment+'.accessToken']
+        FB.setAccessToken(accessToken);
+
+        let response;
 	    try {
             switch (type) {
                 case 'getUserProfile':
-                    this.getUserProfile(socket, type, params);
+                    response = await FB.api("me", {
+                        fields: ["id", "name", "email","about","address","birthday","gender","location"]
+                    });
                     break;
 
                 case 'getUserFeed':
-                    this.getUserFeed(socket, type, params);
+                    response = await FB.api("/me/feed");
                     break;
                     
                 case 'postFeed':
-                    this.postFeed(socket, type, params);
+                    resonseData =	await FB.api('me/feed', 'post', { message: params.message})
                     break;
 
                 case 'deletePost':
-                    this.deletePost(socket, type, params);
+                    response =	await FB.api(params.postId, 'delete', { message: params['message'] })
                     break;
             }
+            this.wsManager.send(socket, this.moduleName, { type, response })
 
         } catch (error) {
             this.handleError(socket, type, error)
         }
 	}
-	
-
-	async getUserProfile(socket, type, params) {
-        try {
-            const { accessToken } = params;
-            FB.setAccessToken(accessToken);
-
-			const resonseData =	await FB.api("me", {fields: ["id", "name", "email","about","address","birthday","gender","location"]});
-            const response = {
-                'object': 'list',
-                'data': resonseData,
-            };
-
-            api.send_response(this.wsManager, socket, { "type": type, "response": response }, this.moduleName);
-        } catch (error) {
-            this.handleError(socket, type, error)
-        }
-    }
-    
-    async postFeed(socket, type, params) {
-        try {
-            const { accessToken,message } = params;
-            FB.setAccessToken(accessToken);
-            const resonseData =	await FB.api('me/feed', 'post', { message})
-            
-            if(!resonseData || resonseData.error) {
-                throw(resonseData.error || resonseData)
-            }
-             
-            const response = {
-                'object': 'list',
-                'data': resonseData,
-            };
-            api.send_response(this.wsManager, socket, { "type": type, "response": response }, this.moduleName);
-        } catch (error) {
-            this.handleError(socket, type, error)
-        }
-    }
-    
-    async deletePost(socket, type, params) {
-        try {
-            const { accessToken,message ,postId} = params;
-            FB.setAccessToken(accessToken);
-            
-            const resonseData =	await FB.api(postId, 'delete', { message})
-            
-            if(!resonseData || resonseData.error) {
-                throw(resonseData.error || resonseData)
-            }
-             
-            const response = {
-                'object': 'list',
-                'data': resonseData,
-            };
-            api.send_response(this.wsManager, socket, { "type": type, "response": response }, this.moduleName);
-        } catch (error) {
-            this.handleError(socket, type, error)
-        }
-    }
-    
-    async getUserFeed(socket, type, params){
-        try {
-            const { accessToken,message ,postId} = params;
-            FB.setAccessToken(accessToken);
-            
-            const resonseData = await FB.api("/me/feed");
-
-            if(!resonseData || resonseData.error) {
-                throw(resonseData.error || resonseData)
-            }
-             
-            const response = {
-                'object': 'list',
-                'data': resonseData,
-            };
-            api.send_response(this.wsManager, socket, { "type": type, "response": response }, this.moduleName);
-        } catch (error) {
-            this.handleError(socket, type, error)
-        }
-    }
-    
-    handleError(socket, type, error) {
-        const response = {
-            'object': 'error',
-            'data':   error.message || error,
-        };
-        api.send_response(this.wsManager, socket, { type, response }, this.moduleName);
-    }
-}//end Class 
+        
+	handleError(socket, type, error) {
+		const response = {
+		  'object': 'error',
+		  'data': error || error.response || error.response.data || error.response.body || error.message || error,
+		};
+		this.wsManager.send(socket, this.moduleName, { type, response })
+	}	
+}
 
 module.exports = CoCreateDataFacebook;
