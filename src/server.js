@@ -22,7 +22,7 @@ class CoCreateDataFacebook {
 
 	async sendFacebook(socket, data) {	    
 		let params = data['data'];
-        let type = data['type'];
+        let action = data['action'];
 		let environment;
 
         let org = await api.getOrg(data, this.moduleName);
@@ -38,7 +38,7 @@ class CoCreateDataFacebook {
 
         let response;
 	    try {
-            switch (type) {
+            switch (action) {
                 case 'getUserProfile':
                     response = await FB.api("me", {
                         fields: ["id", "name", "email","about","address","birthday","gender","location"]
@@ -57,19 +57,19 @@ class CoCreateDataFacebook {
                     response =	await FB.api(params.postId, 'delete', { message: params['message'] })
                     break;
             }
-            this.wsManager.send(socket, this.moduleName, { type, response })
+            this.wsManager.send(socket, this.moduleName, { action, response })
 
         } catch (error) {
-            this.handleError(socket, type, error)
+            this.handleError(socket, action, error)
         }
 	}
         
-	handleError(socket, type, error) {
+	handleError(socket, action, error) {
 		const response = {
 		  'object': 'error',
 		  'data': error || error.response || error.response.data || error.response.body || error.message || error,
 		};
-		this.wsManager.send(socket, this.moduleName, { type, response })
+		this.wsManager.send(socket, this.moduleName, { action, response })
 	}	
 }
 
