@@ -14,7 +14,7 @@ module.exports = {
                 "name": "index.html",
                 "path": "/docs/facebook/index.html",
                 "domains": [
-                    "cocreate.app",
+                    "*",
                     "general.cocreate.app"
                 ],
                 "directory": "/docs/facebook",
