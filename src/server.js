@@ -30,10 +30,10 @@ class CoCreateDataFacebook {
           environment = params['environment'];
           delete params['environment'];  
         } else {
-          environment = org['apis.' + this.moduleName + '.environment'];
+          environment = org.apis[this.moduleName].environment;
         }
 
-        const { accessToken } = org['apis.'+this.moduleName+'.'+environment+'.accessToken']
+        const { accessToken } = org.apis[this.moduleName][environment].accessToken
         FB.setAccessToken(accessToken);
 
         let response;
