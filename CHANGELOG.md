@@ -1,3 +1,12 @@
+## [1.3.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.0...v1.3.1) (2022-02-24)
+
+
+### Bug Fixes
+
+* CoCreate.config replace CoCreate.app with * ([92aeb71](https://github.com/CoCreate-app/CoCreate-facebook/commit/92aeb71f027fe454cfa43d850b4d30ba2102cf2f))
+* get environemt and keys using dot notation ([c2b8c39](https://github.com/CoCreate-app/CoCreate-facebook/commit/c2b8c39d52093d408dd3a021387e14218a1b3bc6))
+* update param type to action ([e44cb79](https://github.com/CoCreate-app/CoCreate-facebook/commit/e44cb79e12294419f4489ffa434c391f9500e864))
+
 # [1.3.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.2.1...v1.3.0) (2022-02-17)
 
 
