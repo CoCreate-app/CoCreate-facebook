@@ -10,13 +10,13 @@ const FB = new Facebook();
 class CoCreateDataFacebook {
 	constructor(wsManager) {
 		this.wsManager = wsManager;
-		this.moduleName = "facebook";
+		this.name = "facebook";
 		this.init();
 	}
 	
 	init() {
 		if (this.wsManager) {
-			this.wsManager.on(this.moduleName, (socket, data) => this.sendFacebook(socket, data));
+			this.wsManager.on(this.name, (socket, data) => this.sendFacebook(socket, data));
 		}
 	}
 
@@ -25,15 +25,15 @@ class CoCreateDataFacebook {
         let action = data['action'];
 		let environment;
 
-        let org = await api.getOrg(data, this.moduleName);
+        let org = await api.getOrg(data, this.name);
         if (params.environment){
           environment = params['environment'];
           delete params['environment'];  
         } else {
-          environment = org.apis[this.moduleName].environment;
+          environment = org.apis[this.name].environment;
         }
 
-        const { accessToken } = org.apis[this.moduleName][environment].accessToken
+        const { accessToken } = org.apis[this.name][environment].accessToken
         FB.setAccessToken(accessToken);
 
         let response;
@@ -57,7 +57,7 @@ class CoCreateDataFacebook {
                     response =	await FB.api(params.postId, 'delete', { message: params['message'] })
                     break;
             }
-            this.wsManager.send(socket, this.moduleName, { action, response })
+            this.wsManager.send(socket, this.name, { action, response })
 
         } catch (error) {
             this.handleError(socket, action, error)
@@ -69,7 +69,7 @@ class CoCreateDataFacebook {
 		  'object': 'error',
 		  'data': error || error.response || error.response.data || error.response.body || error.message || error,
 		};
-		this.wsManager.send(socket, this.moduleName, { action, response })
+		this.wsManager.send(socket, this.name, { action, response })
 	}	
 }
 

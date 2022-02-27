@@ -10,7 +10,7 @@ const CoCreateFacebook = {
 
 api.init({
 	name: CoCreateFacebook.name, 
-	module:	CoCreateFacebook,
+	component:	CoCreateFacebook,
 });
 
 export default CoCreateFacebook;
