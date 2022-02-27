@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.1...v1.3.2) (2022-02-27)
+
+
+### Bug Fixes
+
+* update param  module to component ([52e9905](https://github.com/CoCreate-app/CoCreate-facebook/commit/52e9905f4b5fed927445ac3d1a4d61664a7655bb))
+
 ## [1.3.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.0...v1.3.1) (2022-02-24)
 
 
