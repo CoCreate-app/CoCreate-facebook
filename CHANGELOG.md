@@ -1,3 +1,10 @@
+## [1.3.4](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.3...v1.3.4) (2022-05-19)
+
+
+### Bug Fixes
+
+* update document_id on link index.css ([785c1d2](https://github.com/CoCreate-app/CoCreate-facebook/commit/785c1d23e69c88e06b3861e67810e3d2b12111ac))
+
 ## [1.3.3](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.2...v1.3.3) (2022-05-06)
 
 
