@@ -1,3 +1,11 @@
+## [1.3.6](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.5...v1.3.6) (2022-06-12)
+
+
+### Bug Fixes
+
+* update dependencies ([c67f4a0](https://github.com/CoCreate-app/CoCreate-facebook/commit/c67f4a0350358c852d4e2d29b9ad1a0597487b37))
+* update docs css document_id ([6bfffc9](https://github.com/CoCreate-app/CoCreate-facebook/commit/6bfffc9f681c94e1c3da6550201ec5c95f6428f2))
+
 ## [1.3.5](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.4...v1.3.5) (2022-05-23)
 
 
