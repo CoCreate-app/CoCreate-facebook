@@ -1,3 +1,10 @@
+## [1.3.9](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.8...v1.3.9) (2022-09-29)
+
+
+### Bug Fixes
+
+* config renameed to CoCreateConfig ([02e7237](https://github.com/CoCreate-app/CoCreate-facebook/commit/02e7237f7a79b7476969874bb831c7a87bfc5ac3))
+
 ## [1.3.8](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.7...v1.3.8) (2022-09-01)
 
 
