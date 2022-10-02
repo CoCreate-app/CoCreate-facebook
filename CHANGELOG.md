@@ -1,3 +1,10 @@
+## [1.3.16](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.15...v1.3.16) (2022-10-02)
+
+
+### Bug Fixes
+
+* bump @cocreate/hosting and @cocreate/socket-client ([d02dfd1](https://github.com/CoCreate-app/CoCreate-facebook/commit/d02dfd16c805fb90ea433043091347c3164d48e4))
+
 ## [1.3.15](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.14...v1.3.15) (2022-10-01)
 
 
