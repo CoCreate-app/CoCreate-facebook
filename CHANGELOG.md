@@ -1,3 +1,10 @@
+## [1.3.20](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.19...v1.3.20) (2022-11-21)
+
+
+### Bug Fixes
+
+* replaced document_id with document._id ([f3731c8](https://github.com/CoCreate-app/CoCreate-facebook/commit/f3731c8021a4455d84da537e11a856a53ab00dab))
+
 ## [1.3.19](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.18...v1.3.19) (2022-11-21)
 
 
