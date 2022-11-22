@@ -1,3 +1,11 @@
+## [1.3.22](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.21...v1.3.22) (2022-11-22)
+
+
+### Bug Fixes
+
+* apply src: {{source}} to CoCreate.config ([abbeaea](https://github.com/CoCreate-app/CoCreate-facebook/commit/abbeaea166523af84c1ae1f398d86cf58d99ae8c))
+* workflow docs ([4bda907](https://github.com/CoCreate-app/CoCreate-facebook/commit/4bda907173244028c491be7ebfe8f8042dfbce9b))
+
 ## [1.3.21](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.20...v1.3.21) (2022-11-21)
 
 
