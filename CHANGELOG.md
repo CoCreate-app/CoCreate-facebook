@@ -1,3 +1,10 @@
+## [1.3.38](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.37...v1.3.38) (2022-12-13)
+
+
+### Bug Fixes
+
+* bump dependencies ([325eaf7](https://github.com/CoCreate-app/CoCreate-facebook/commit/325eaf76163aae1c49ec79fee565e5179b645b55))
+
 ## [1.3.37](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.36...v1.3.37) (2022-12-12)
 
 
