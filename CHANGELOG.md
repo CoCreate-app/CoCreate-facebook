@@ -1,3 +1,10 @@
+## [1.3.40](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.39...v1.3.40) (2022-12-15)
+
+
+### Bug Fixes
+
+* add missing dev dependency style-loader ([098cc0f](https://github.com/CoCreate-app/CoCreate-facebook/commit/098cc0f1b1a4d37260600f7e307044404a1796a9))
+
 ## [1.3.39](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.38...v1.3.39) (2022-12-13)
 
 
