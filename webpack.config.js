@@ -15,7 +15,6 @@ module.exports = {
     libraryExport: "default",
     library: ["CoCreate", "facebook"],
     globalObject: "this",
-    // publicPath: 'https://server.cocreate.app/CoCreateJS/dist/'
   },
 
   plugins: [
