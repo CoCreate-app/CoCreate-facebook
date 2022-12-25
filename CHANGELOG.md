@@ -1,3 +1,11 @@
+## [1.3.46](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.45...v1.3.46) (2022-12-25)
+
+
+### Bug Fixes
+
+* bump dependencies ([9c05a63](https://github.com/CoCreate-app/CoCreate-facebook/commit/9c05a63bfe1aae5a2d5d04775221cab5e3ed4e9b))
+* bumpcdn to 1.34.4 ([ce87e25](https://github.com/CoCreate-app/CoCreate-facebook/commit/ce87e25dcff7d8377671bee5c364d82fc0bfd3e4))
+
 ## [1.3.45](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.44...v1.3.45) (2022-12-23)
 
 
