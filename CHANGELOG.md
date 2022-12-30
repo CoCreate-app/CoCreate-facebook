@@ -1,3 +1,10 @@
+## [1.3.49](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.48...v1.3.49) (2022-12-30)
+
+
+### Bug Fixes
+
+* update config sources to use template  braces with entry on src ([3eaa1a6](https://github.com/CoCreate-app/CoCreate-facebook/commit/3eaa1a6fbe3ea0933b5205007e5e2016dd702288))
+
 ## [1.3.48](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.47...v1.3.48) (2022-12-29)
 
 
