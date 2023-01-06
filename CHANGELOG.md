@@ -1,3 +1,11 @@
+## [1.3.53](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.52...v1.3.53) (2023-01-06)
+
+
+### Bug Fixes
+
+* bump dependencies, worklow [@v3](https://github.com/v3) ([3213a9e](https://github.com/CoCreate-app/CoCreate-facebook/commit/3213a9e196ffdab41fc656cfe89b609be9978fce))
+* edit in github btn styles ([b0e03aa](https://github.com/CoCreate-app/CoCreate-facebook/commit/b0e03aafa382e21c71f133bec6efc5fa165eebf8))
+
 ## [1.3.52](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.51...v1.3.52) (2023-01-05)
 
 
