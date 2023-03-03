@@ -2,15 +2,12 @@ import api from '@cocreate/api'
 
 const CoCreateFacebook = {
 	name: 'facebook',
-	actions: {
+	endPoints: {
 		getUserFeed: {},
 		getUserProfile: {}
 	}
 };
 
-api.init({
-	name: CoCreateFacebook.name, 
-	component:	CoCreateFacebook,
-});
+api.init(CoCreateFacebook);
 
 export default CoCreateFacebook;
