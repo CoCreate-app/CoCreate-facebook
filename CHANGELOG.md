@@ -1,3 +1,10 @@
+## [1.3.63](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.62...v1.3.63) (2023-03-15)
+
+
+### Bug Fixes
+
+* actions object renamed to endPoints ([3e71e4c](https://github.com/CoCreate-app/CoCreate-facebook/commit/3e71e4cf83c825b573d4424aa2678b1576026eba))
+
 ## [1.3.62](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.61...v1.3.62) (2023-02-01)
 
 
