@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.63...v1.4.0) (2023-03-16)
+
+
+### Features
+
+* replaced get-value and set-value with a super charged version of CoCreate-events ([867585a](https://github.com/CoCreate-app/CoCreate-facebook/commit/867585a80874ee63be259b2d9568d9281bb3c6f7))
+
 ## [1.3.63](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.3.62...v1.3.63) (2023-03-15)
 
 
