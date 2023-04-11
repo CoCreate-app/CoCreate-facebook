@@ -1,3 +1,10 @@
+## [1.4.4](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.4.3...v1.4.4) (2023-04-11)
+
+
+### Bug Fixes
+
+* renamed domains to hosts ([4748065](https://github.com/CoCreate-app/CoCreate-facebook/commit/474806581cfd3414292f9d36371f71016b9ca665))
+
 ## [1.4.3](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.4.2...v1.4.3) (2023-03-30)
 
 
