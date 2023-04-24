@@ -1,3 +1,10 @@
+## [1.5.4](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.3...v1.5.4) (2023-04-24)
+
+
+### Bug Fixes
+
+* updated worrkflows to v3 and node version 16 ([dfbd249](https://github.com/CoCreate-app/CoCreate-facebook/commit/dfbd24904d61b748decc71a2a540ade72a10dc57))
+
 ## [1.5.3](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.2...v1.5.3) (2023-04-24)
 
 
