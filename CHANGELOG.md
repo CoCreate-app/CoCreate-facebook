@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.4.6...v1.5.0) (2023-04-24)
+
+
+### Features
+
+* added pwa manifest ([99fe15f](https://github.com/CoCreate-app/CoCreate-facebook/commit/99fe15f3054cb680500d48b8684dafb08d75fdb6))
+
 ## [1.4.6](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.4.5...v1.4.6) (2023-04-11)
 
 
