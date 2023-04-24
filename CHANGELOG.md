@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.0...v1.5.1) (2023-04-24)
+
+
+### Bug Fixes
+
+* removed uglifyjs-webpack-plugin ([e489c42](https://github.com/CoCreate-app/CoCreate-facebook/commit/e489c42413e830effd1cdf81cb924b0323bc3597))
+
 # [1.5.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.4.6...v1.5.0) (2023-04-24)
 
 
