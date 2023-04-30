@@ -1,3 +1,12 @@
+## [1.5.5](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.4...v1.5.5) (2023-04-30)
+
+
+### Bug Fixes
+
+* fullscreen target updated to fullscreen fullscreen-target ([795e76b](https://github.com/CoCreate-app/CoCreate-facebook/commit/795e76b354b496eb7accd89abf1467f87f8e72b4))
+* package-lock.json and pnpm-lock.yaml added to .gitignore ([eed9508](https://github.com/CoCreate-app/CoCreate-facebook/commit/eed9508ebaf493c78afb73736ceb58edb865e3a8))
+* removed toogle fullscreen icons. now using css content ([c6f53bd](https://github.com/CoCreate-app/CoCreate-facebook/commit/c6f53bdfc02525811f17c7a8d119516e843a2bef))
+
 ## [1.5.4](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.3...v1.5.4) (2023-04-24)
 
 
