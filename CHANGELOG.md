@@ -1,3 +1,10 @@
+## [1.5.6](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.5...v1.5.6) (2023-05-01)
+
+
+### Bug Fixes
+
+* replace fontawesome with svg ([e3a0c0b](https://github.com/CoCreate-app/CoCreate-facebook/commit/e3a0c0b76c17c18ceb51cc2e0725e0cf120f99c7))
+
 ## [1.5.5](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.4...v1.5.5) (2023-04-30)
 
 
