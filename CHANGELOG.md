@@ -1,3 +1,10 @@
+## [1.5.7](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.6...v1.5.7) (2023-05-01)
+
+
+### Bug Fixes
+
+* update manifest.json to manifest.webmanifest ([670b99e](https://github.com/CoCreate-app/CoCreate-facebook/commit/670b99e7d54a6c86362c481844f47168cc02bdf8))
+
 ## [1.5.6](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.5...v1.5.6) (2023-05-01)
 
 
