@@ -1,3 +1,10 @@
+## [1.5.9](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.8...v1.5.9) (2023-05-10)
+
+
+### Bug Fixes
+
+* apikey renamed to key ([7c09515](https://github.com/CoCreate-app/CoCreate-facebook/commit/7c09515f8c30ee29bc6ba628b947b990a3d7014b))
+
 ## [1.5.8](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.7...v1.5.8) (2023-05-06)
 
 
