@@ -1,3 +1,10 @@
+## [1.5.10](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.9...v1.5.10) (2023-05-19)
+
+
+### Bug Fixes
+
+* update packages to latest version. This commit updates various packages in the dependencies section of the package.json file to their latest published versions, thereby fixing multiple bugs and improving overall performance. ([673414b](https://github.com/CoCreate-app/CoCreate-facebook/commit/673414bfd1e8fe387ac6fbbd42913415ac5243cb))
+
 ## [1.5.9](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.8...v1.5.9) (2023-05-10)
 
 
