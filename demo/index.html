@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
-
     <head>
         <title>Facebook</title>
 
         <style type="text/css">
             .template {
-                display: none
+                display: none;
             }
             .list {
                 display: inline-grid;
@@ -18,35 +17,30 @@
                 cursor: pointer;
             }
         </style>
-		<link rel="manifest" href="/manifest.webmanifest" />
-	</head>
+        <link rel="manifest" href="/manifest.webmanifest" />
+    </head>
 
     <body>
-
         <h1>List of API - Facebook</h1>
-        
+
         <ul class="list">
-            <li onclick="navigate('getUserProfile')">Go to Facebook profile Users</li>
+            <li onclick="navigate('getUserProfile')">
+                Go to Facebook profile Users
+            </li>
             <li onclick="navigate('login')">Go to Facebook Login</li>
             <li onclick="navigate('')">Go to Facebook account List</li>
             <li onclick="navigate('')">Go to Facebook feed List</li>
             <li onclick="navigate('')">Go to Facebook post feed</li>
             <li onclick="navigate('')">Go to Facebook comment Show</li>
-        </div>
+        </ul>
 
         <script>
-        
-            function navigate(name){
+            function navigate(name) {
                 if (name) window.location.href = `../demo/${name}.html`;
             }
-            
         </script>
-        
-        <script src="https://cdn.cocreate.app/latest/CoCreate.min.js" ></script>
-        <!--<script src="../dist/CoCreate-facebook.js"></script>-->    
 
+        <script src="https://cdn.cocreate.app/latest/CoCreate.min.js"></script>
+        <!--<script src="../dist/CoCreate-facebook.js"></script>-->
     </body>
-
-
-
 </html>

@@ -1,50 +1,63 @@
 <!DOCTYPE html>
 <html>
+    <head>
+        <title>Facebook</title>
 
-<head>
-    <title>Facebook</title>
+        <style type="text/css">
+            .btnsubmit {
+                margin: 25px;
+                border-radius: 10px;
+                font-size: 18px;
+                font-family: "Cookie", cursive;
+                cursor: pointer;
+            }
+        </style>
+        <link rel="manifest" href="/manifest.webmanifest" />
+    </head>
 
-    <style type="text/css">
-        .btnsubmit {
-            margin: 25px;
-            border-radius: 10px;
-            font-size: 18px;
-            font-family: 'Cookie', cursive;
-            cursor: pointer;
-        }
-    </style>
-    <link rel="manifest" href="/manifest.webmanifest">
-</head>
+    <body>
+        <h1>Profile - Facebook -</h1>
 
-<body>
+        <form>
+            access token :
+            <input
+                facebook="getUserProfile.accessToken"
+                value="EAAZApoNcwi0wBAL8ZA6nKoDXj9goZB3vrHnA7AxZBTzocjbThmUU2YuldSnRHbCZAZCbFgPwPNXZCKHiGZBFxIbB87xSHmKbUMG0JTXUkBtsi8UJoZAmXk7kXJ7aTlntXQYw0D60e3IZBLQ7x6FjjVqzgZCwubc0NBROp8is9Ng1hZA7ogbL5rZCkvNwtVUMObIhDiUpptkc4w0dN2NCqjJ1wiBi67nmuW0cvBB7lzMVVs05h6gZDZD" />
+            <button class="btnsubmit" actions="getUserProfile">
+                Facebook User data
+            </button>
+        </form>
 
-    <h1>Profile - Facebook -</h1>
-    
-    <form>
-        access token : <input facebook="getUserProfile.accessToken" value="EAAZApoNcwi0wBAL8ZA6nKoDXj9goZB3vrHnA7AxZBTzocjbThmUU2YuldSnRHbCZAZCbFgPwPNXZCKHiGZBFxIbB87xSHmKbUMG0JTXUkBtsi8UJoZAmXk7kXJ7aTlntXQYw0D60e3IZBLQ7x6FjjVqzgZCwubc0NBROp8is9Ng1hZA7ogbL5rZCkvNwtVUMObIhDiUpptkc4w0dN2NCqjJ1wiBi67nmuW0cvBB7lzMVVs05h6gZDZD">
-        <button class="btnsubmit"  actions='getUserProfile'>Facebook User data</button>
-    </form>
-
-    <div template_id="getUserProfile">
-        <h4>Facebook Search Users :- </h4>
-        <div class="" value="{{data.id}}" >
-            <div>
-                ID :- <h3 class="margin-right:10px" value="{{data.id}}"></h3>
-                Name :- <h3 class="margin-right:10px" value="{{data.name}}"></h3>
-                about :- <h3 class="margin-right:10px" value="{{data.about}}"></h3>
-                address :- <h3 class="margin-right:10px" value="{{data.address}}"></h3>
-                birthday :- <h3 class="margin-right:10px" value="{{data.birthday}}"></h3>
-                email :- <h3 class="margin-right:10px" value="{{data.email}}"></h3>
-                gender :- <h3 class="margin-right:10px" value="{{data.gender}}"></h3>
-                location :- <h3 class="margin-right:10px" value="{{data.location}}"></h3>
+        <div template_id="getUserProfile">
+            <h4>Facebook Search Users :-</h4>
+            <div class="" value="{{data.id}}">
+                <div>
+                    ID :-
+                    <h3 class="margin-right:10px" value="{{data.id}}"></h3>
+                    Name :-
+                    <h3 class="margin-right:10px" value="{{data.name}}"></h3>
+                    about :-
+                    <h3 class="margin-right:10px" value="{{data.about}}"></h3>
+                    address :-
+                    <h3 class="margin-right:10px" value="{{data.address}}"></h3>
+                    birthday :-
+                    <h3
+                        class="margin-right:10px"
+                        value="{{data.birthday}}"></h3>
+                    email :-
+                    <h3 class="margin-right:10px" value="{{data.email}}"></h3>
+                    gender :-
+                    <h3 class="margin-right:10px" value="{{data.gender}}"></h3>
+                    location :-
+                    <h3
+                        class="margin-right:10px"
+                        value="{{data.location}}"></h3>
+                </div>
             </div>
         </div>
-    </div>
-    
-    <!--CoCreateJS-->
-    <script src="https://cdn.cocreate.app/latest/CoCreate.min.js" ></script>
-    <!--<script src="../dist/CoCreate-facebook.js"></script>-->
 
-</body>
-
+        <!--CoCreateJS-->
+        <script src="https://cdn.cocreate.app/latest/CoCreate.min.js"></script>
+        <!--<script src="../dist/CoCreate-facebook.js"></script>-->
+    </body>
 </html>
