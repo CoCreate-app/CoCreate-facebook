@@ -1,3 +1,10 @@
+## [1.5.12](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.11...v1.5.12) (2023-06-02)
+
+
+### Bug Fixes
+
+* format demo html ([8165ced](https://github.com/CoCreate-app/CoCreate-facebook/commit/8165ced8b8e0dd46fd3c764993956131a57f0712))
+
 ## [1.5.11](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.10...v1.5.11) (2023-05-21)
 
 
