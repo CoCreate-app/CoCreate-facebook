@@ -1,3 +1,10 @@
+## [1.5.13](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.12...v1.5.13) (2023-06-04)
+
+
+### Bug Fixes
+
+* **semantic-release:** worklow error solved by running node version 14 ([4f82a56](https://github.com/CoCreate-app/CoCreate-facebook/commit/4f82a56cb43e86b59840b42118cb5d276a73ff35))
+
 ## [1.5.12](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.11...v1.5.12) (2023-06-02)
 
 
