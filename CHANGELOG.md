@@ -1,3 +1,11 @@
+## [1.5.14](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.13...v1.5.14) (2023-06-04)
+
+
+### Bug Fixes
+
+* replaced secert GITHUB_TOKEN with GITHUB ([71da854](https://github.com/CoCreate-app/CoCreate-facebook/commit/71da85459129efaa5ac60f08dd427531de0d59a4))
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([7915447](https://github.com/CoCreate-app/CoCreate-facebook/commit/7915447101d245c542eba285bdb2f38cb5a6326a))
+
 ## [1.5.13](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.12...v1.5.13) (2023-06-04)
 
 
