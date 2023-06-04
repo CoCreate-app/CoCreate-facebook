@@ -1,3 +1,10 @@
+## [1.5.15](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.14...v1.5.15) (2023-06-04)
+
+
+### Bug Fixes
+
+* Refactor CoCreate.config.js to remove hard-coded credentials ([3468162](https://github.com/CoCreate-app/CoCreate-facebook/commit/346816255165c850c2f8105f8d9490215e741b39))
+
 ## [1.5.14](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.13...v1.5.14) (2023-06-04)
 
 
