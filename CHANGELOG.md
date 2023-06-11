@@ -1,3 +1,10 @@
+## [1.5.25](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.24...v1.5.25) (2023-06-11)
+
+
+### Bug Fixes
+
+* testing workflow ([9c48c0f](https://github.com/CoCreate-app/CoCreate-facebook/commit/9c48c0f4267dddee0be6a56b5757fadd03e04b02))
+
 ## [1.5.24](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.23...v1.5.24) (2023-06-11)
 
 
