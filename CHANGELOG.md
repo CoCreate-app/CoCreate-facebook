@@ -1,3 +1,10 @@
+## [1.5.18](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.17...v1.5.18) (2023-06-11)
+
+
+### Bug Fixes
+
+* renamed hosts to host. the value can be a string or an array of strings ([1565b90](https://github.com/CoCreate-app/CoCreate-facebook/commit/1565b90f41c78abd7fbbf3ac26bccfa5e4550578))
+
 ## [1.5.17](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.16...v1.5.17) (2023-06-10)
 
 
