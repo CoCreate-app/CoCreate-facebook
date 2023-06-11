@@ -1,3 +1,10 @@
+## [1.5.21](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.20...v1.5.21) (2023-06-11)
+
+
+### Bug Fixes
+
+* postintall error ([9ada7c5](https://github.com/CoCreate-app/CoCreate-facebook/commit/9ada7c5f5d25ceb33f2bb3c7064d011ef2253cf5))
+
 ## [1.5.20](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.19...v1.5.20) (2023-06-11)
 
 
