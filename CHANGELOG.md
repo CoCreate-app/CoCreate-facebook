@@ -1,3 +1,10 @@
+## [1.5.20](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.19...v1.5.20) (2023-06-11)
+
+
+### Bug Fixes
+
+* @cocreate/cli moved to dependencies ([d107151](https://github.com/CoCreate-app/CoCreate-facebook/commit/d1071511ebfc95cbd9865d4468d670598bb4f4e4))
+
 ## [1.5.19](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.18...v1.5.19) (2023-06-11)
 
 
