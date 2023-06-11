@@ -1,3 +1,10 @@
+## [1.5.28](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.27...v1.5.28) (2023-06-11)
+
+
+### Bug Fixes
+
+* Update dependencies versions for [@cocreate](https://github.com/cocreate) libraries ([d710c03](https://github.com/CoCreate-app/CoCreate-facebook/commit/d710c032b5c66b4a4e25a57dd31f4b05ade85807))
+
 ## [1.5.27](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.26...v1.5.27) (2023-06-11)
 
 
