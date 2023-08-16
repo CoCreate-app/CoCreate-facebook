@@ -1,3 +1,17 @@
+# [1.6.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.29...v1.6.0) (2023-08-16)
+
+
+### Bug Fixes
+
+* crud attributes renamed ([8c7b226](https://github.com/CoCreate-app/CoCreate-facebook/commit/8c7b2260eb9f742c51358f2172d2630dd0cdc55f))
+* replace -target -selector ([5557b86](https://github.com/CoCreate-app/CoCreate-facebook/commit/5557b860721335326841e1c57c452f528143cef4))
+* webpack.config and package.json make use of mode=production instead of process.env ([ceba7ec](https://github.com/CoCreate-app/CoCreate-facebook/commit/ceba7eccd52a2cc04bed2b9aad090dab4ccae49a))
+
+
+### Features
+
+* name attribute and variable renamed to key ([a4a9a65](https://github.com/CoCreate-app/CoCreate-facebook/commit/a4a9a6578265c137113378ddf7049fd761ab8f0c))
+
 ## [1.5.29](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.5.28...v1.5.29) (2023-06-14)
 
 
