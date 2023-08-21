@@ -1,3 +1,12 @@
+## [1.7.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.7.0...v1.7.1) (2023-08-21)
+
+
+### Bug Fixes
+
+* /dist/CoCreate.js updated to https://CoCreate.app/dist/CoCreate.js ([16133e3](https://github.com/CoCreate-app/CoCreate-facebook/commit/16133e356a3833a47215e66a0af603a2d306d2c3))
+* replace cdn with /dist ([87900c2](https://github.com/CoCreate-app/CoCreate-facebook/commit/87900c2943e38ea107a2404a85d10663944bfc65))
+* update file uploader ([5cac281](https://github.com/CoCreate-app/CoCreate-facebook/commit/5cac281e3666c457600650905fb75ef6e0c8ff9e))
+
 # [1.7.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.6.0...v1.7.0) (2023-08-17)
 
 
