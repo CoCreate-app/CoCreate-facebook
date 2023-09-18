@@ -1,3 +1,11 @@
+## [1.8.2](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.8.1...v1.8.2) (2023-09-18)
+
+
+### Bug Fixes
+
+*  Add path and pathname ([934640f](https://github.com/CoCreate-app/CoCreate-facebook/commit/934640f19d009273388591be051724c49529e79c))
+* Update CoCreate depndencies to latest versions ([189a4b3](https://github.com/CoCreate-app/CoCreate-facebook/commit/189a4b3728129697095e9c39e0a7aa26c20322e7))
+
 ## [1.8.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.8.0...v1.8.1) (2023-08-21)
 
 
