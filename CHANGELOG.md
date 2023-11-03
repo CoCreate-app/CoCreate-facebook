@@ -1,3 +1,10 @@
+## [1.9.5](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.9.4...v1.9.5) (2023-11-03)
+
+
+### Bug Fixes
+
+* update dependencies to the lates versions ([5662d39](https://github.com/CoCreate-app/CoCreate-facebook/commit/5662d39bd99cd6b90fd5e02b2ff6c22302f0c6b7))
+
 ## [1.9.4](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.9.3...v1.9.4) (2023-10-25)
 
 
