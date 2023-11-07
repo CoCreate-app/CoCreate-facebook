@@ -12,8 +12,7 @@ module.exports = {
                 "pathname": "/docs/facebook/index.html",
                 "src": "{{./docs/index.html}}",
                 "host": [
-                    "*",
-                    "general.cocreate.app"
+                    "*"
                 ],
                 "directory": "facebook",
                 "content-type": "{{content-type}}",
