@@ -1,3 +1,11 @@
+## [1.9.6](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.9.5...v1.9.6) (2023-11-09)
+
+
+### Bug Fixes
+
+* meta name typo ([2b60c50](https://github.com/CoCreate-app/CoCreate-facebook/commit/2b60c5069f53e2d26d77db6dda12603c9e13e311))
+* update host ([264d11b](https://github.com/CoCreate-app/CoCreate-facebook/commit/264d11b9b12a207d5c40f7b045a2107736b6c855))
+
 ## [1.9.5](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.9.4...v1.9.5) (2023-11-03)
 
 
