@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.11.0...v1.12.0) (2023-11-25)
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([7497518](https://github.com/CoCreate-app/CoCreate-facebook/commit/74975188c49aec2756de917cb6a4e22b844a662d))
+
 # [1.11.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.10.0...v1.11.0) (2023-11-25)
 
 
