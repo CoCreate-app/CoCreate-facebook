@@ -1,3 +1,15 @@
+# [1.11.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.10.0...v1.11.0) (2023-11-25)
+
+
+### Bug Fixes
+
+* update nav, edit button and css path ([dafb3ad](https://github.com/CoCreate-app/CoCreate-facebook/commit/dafb3ad9687f6d6bbfc9bb65f0acbf35de5948db))
+
+
+### Features
+
+* upgrade dependencies for latest features and fixes ([710f8f9](https://github.com/CoCreate-app/CoCreate-facebook/commit/710f8f96480a42f2e9bccfb7d947c9880b8a328b))
+
 # [1.10.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.9.7...v1.10.0) (2023-11-19)
 
 
