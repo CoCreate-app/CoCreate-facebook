@@ -1,3 +1,10 @@
+## [1.12.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.0...v1.12.1) (2023-12-09)
+
+
+### Bug Fixes
+
+* getOrg() renamed to getOrganization() ([79d212c](https://github.com/CoCreate-app/CoCreate-facebook/commit/79d212c210310b4105a3ad61481c68b7eeb4783f))
+
 # [1.12.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.11.0...v1.12.0) (2023-11-25)
 
 
