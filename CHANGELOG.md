@@ -1,3 +1,10 @@
+## [1.12.2](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.1...v1.12.2) (2024-02-03)
+
+
+### Bug Fixes
+
+*  removed from clinet.js ([878de6b](https://github.com/CoCreate-app/CoCreate-facebook/commit/878de6bcff77700d72898a4625f06dcbf9affee3))
+
 ## [1.12.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.0...v1.12.1) (2023-12-09)
 
 
