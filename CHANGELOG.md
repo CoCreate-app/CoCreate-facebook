@@ -1,3 +1,10 @@
+## [1.12.3](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.2...v1.12.3) (2024-02-05)
+
+
+### Bug Fixes
+
+* Removed https://cdn.cocreate.app/latest/CoCreate.min.css ([e56d899](https://github.com/CoCreate-app/CoCreate-facebook/commit/e56d899dac46e93e532cbf736ade5556f6a7c27f))
+
 ## [1.12.2](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.1...v1.12.2) (2024-02-03)
 
 
