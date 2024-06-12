@@ -1,3 +1,11 @@
+## [1.12.5](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.4...v1.12.5) (2024-06-12)
+
+
+### Bug Fixes
+
+* bump cocreate dependencies ([0e6873c](https://github.com/CoCreate-app/CoCreate-facebook/commit/0e6873cb0f98b33037137dd4edffd17244e03dea))
+* svg icon class ([f17fb67](https://github.com/CoCreate-app/CoCreate-facebook/commit/f17fb67f57f37f13d84a3a029c50dfb9e47074fe))
+
 ## [1.12.4](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.3...v1.12.4) (2024-04-29)
 
 
