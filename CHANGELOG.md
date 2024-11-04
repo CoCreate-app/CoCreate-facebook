@@ -1,3 +1,16 @@
+# [1.13.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.5...v1.13.0) (2024-11-04)
+
+
+### Bug Fixes
+
+* pretier.config.js and file formating ([7534cff](https://github.com/CoCreate-app/CoCreate-facebook/commit/7534cff78471916e6daab239726f065fa2b81935))
+
+
+### Features
+
+* add prettier.config.js and format files ([329836f](https://github.com/CoCreate-app/CoCreate-facebook/commit/329836f287955d130aedb0b4462156b406f3ba92))
+* add prettier.config.js and format files ([a189464](https://github.com/CoCreate-app/CoCreate-facebook/commit/a18946485bcb08e7a35819cc28310697756dd232))
+
 ## [1.12.5](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.4...v1.12.5) (2024-06-12)
 
 
