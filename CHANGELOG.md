@@ -1,3 +1,13 @@
+## [1.13.1](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.13.0...v1.13.1) (2025-04-30)
+
+
+### Bug Fixes
+
+* added css-loader ([11d6099](https://github.com/CoCreate-app/CoCreate-facebook/commit/11d60995bfca587c5996b19c9982b6b6d4d4a7e8))
+* update query attributes ([0e91311](https://github.com/CoCreate-app/CoCreate-facebook/commit/0e91311c99c7ae795da7eb5e9cc770a0d3e17375))
+* updated cocreate modules versions ([c9be119](https://github.com/CoCreate-app/CoCreate-facebook/commit/c9be119a8b7bd928a96fb8be56f271527d220367))
+* updated webpack.config ([9d0e508](https://github.com/CoCreate-app/CoCreate-facebook/commit/9d0e508a5088adae668d79883c6274848ccb9fb8))
+
 # [1.13.0](https://github.com/CoCreate-app/CoCreate-facebook/compare/v1.12.5...v1.13.0) (2024-11-04)
 
 
